@@ -2,7 +2,7 @@
 
 Interface with RFID card via RC522 module (SPI protocol)
 
-[SPI Present](./spi.pptx)
+[SPI Presentation](./spi.pptx)
 
 ## I. Author
 
